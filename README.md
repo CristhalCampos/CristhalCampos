@@ -1,4 +1,4 @@
-## Hi there 👋
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello!%F0%9F%91%8B+I'm+a+Web+Developer" alt="Typing SVG" /></a>
 
 <!--
 **CristhalCampos/CristhalCampos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CristhalCampos&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CristhalCampos&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
